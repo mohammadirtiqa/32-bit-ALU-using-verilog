@@ -1,0 +1,3 @@
+sim/alu_sim
+*.vcd
+*.out
